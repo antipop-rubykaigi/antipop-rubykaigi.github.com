@@ -1,1 +1,7 @@
 /* style.css */
+
+#slider {
+  background-image: url('../images/header.png');
+  height: 447px;
+  margin: auto;
+}
