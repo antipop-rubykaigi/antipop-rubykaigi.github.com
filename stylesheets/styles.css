@@ -1,5 +1,9 @@
 /* style.css */
 
+h1 {
+  margin-bottom: 0.8em;
+}
+
 #slider {
   background-image: url('../images/header.png');
   height: 447px;
