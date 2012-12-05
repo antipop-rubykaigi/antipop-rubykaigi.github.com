@@ -1,18 +1,1 @@
-#slider {
-    background-image: url(../images/header.jpg);
-    height: 400px;
-    width: 910px;
-}
-#slider h2 {
-    color: white;
-}
-#slider h3 {
-    color: white;
-}
-#slider h3 small {
-    color: #ccc;
-    font-size: 50%;
-}
-#slider p {
-    color: white;
-}
+/* style.css */
